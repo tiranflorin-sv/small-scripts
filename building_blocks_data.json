@@ -6,8 +6,7 @@
     "billing_address_country": "USA",
     "phone_office": "(838) 080-1642",
     "lead_source": "Employee",
-    "link_url": "https://httpbin.org",
-    "link_opens_in": "drawer"
+    "link_url": "https://httpbin.org"
   },
   {
     "id": "e22ecbf8-cea9-11e7-8dfa-3464a90da5e6",
@@ -16,8 +15,7 @@
     "billing_address_country": "USA",
     "phone_office": "(777) 089-5622",
     "lead_source": "Campaign",
-    "link_url": "https://softvision.ro",
-    "link_opens_in": "drawer"
+    "link_url": "https://softvision.ro"
   },
   {
     "id": "e1c398e2-cea9-11e7-914a-3464a90da5e6",
@@ -26,8 +24,7 @@
     "billing_address_country": "USA",
     "phone_office": "(034) 888-8778",
     "lead_source": "Employee",
-    "link_url": "http://example.com",
-    "link_opens_in": "new_tab"
+    "link_url": "http://example.com"
   },
   {
     "id": "e1574250-cea9-11e7-b6e9-3464a90da5e6",
@@ -36,8 +33,7 @@
     "billing_address_country": "USA",
     "phone_office": "(762) 309-6916",
     "lead_source": "Campaign",
-    "link_url": "https://www.sugarcrm.com/",
-    "link_opens_in": "drawer"
+    "link_url": "https://www.sugarcrm.com/"
   },
   {
     "id": "e0cbdc2e-cea9-11e7-9de4-3464a90da5e6",
@@ -46,8 +42,7 @@
     "billing_address_country": "USA",
     "phone_office": "(300) 078-1823",
     "lead_source": "Employee",
-    "link_url": "https://www.sugarcrm.com/",
-    "link_opens_in": "new_tab"
+    "link_url": "https://www.sugarcrm.com/"
   },
   {
     "id": "e05bdb7c-cea9-11e7-b383-3464a90da5e6",
@@ -56,8 +51,7 @@
     "billing_address_country": "USA",
     "phone_office": "(229) 180-7453",
     "lead_source": "Employee",
-    "link_url": "http://example.com",
-    "link_opens_in": "new_tab"
+    "link_url": "http://example.com"
   },
   {
     "id": "dff139a2-cea9-11e7-9baa-3464a90da5e6",
@@ -66,8 +60,7 @@
     "billing_address_country": "USA",
     "phone_office": "(263) 815-3064",
     "lead_source": "Employee",
-    "link_url": "http://example.com",
-    "link_opens_in": "new_tab"
+    "link_url": "http://example.com"
   },
   {
     "id": "df97b954-cea9-11e7-b598-3464a90da5e6",
@@ -76,8 +69,7 @@
     "billing_address_country": "USA",
     "phone_office": "(360) 053-3109",
     "lead_source": "Self Generated",
-    "link_url": "http://example.com",
-    "link_opens_in": "new_tab"
+    "link_url": "http://example.com"
   },
   {
     "id": "df2caa88-cea9-11e7-9be7-3464a90da5e6",
@@ -86,8 +78,7 @@
     "billing_address_country": "USA",
     "phone_office": "(517) 538-7020",
     "lead_source": "Existing Customer",
-    "link_url": "http://example.com",
-    "link_opens_in": "new_tab"
+    "link_url": "http://example.com"
   },
   {
     "id": "debeb0be-cea9-11e7-8377-3464a90da5e6",
@@ -96,8 +87,7 @@
     "billing_address_country": "USA",
     "phone_office": "(953) 287-1636",
     "lead_source": "Cold Call",
-    "link_url": "http://example.com",
-    "link_opens_in": "new_tab"
+    "link_url": "http://example.com"
   },
   {
     "id": "de3e02e8-cea9-11e7-b8b1-3464a90da5e6",
@@ -106,8 +96,7 @@
     "billing_address_country": "USA",
     "phone_office": "(547) 615-6430",
     "lead_source": "Undefined",
-    "link_url": "http://example.com",
-    "link_opens_in": "new_tab"
+    "link_url": "http://example.com"
   },
   {
     "id": "ddc0d674-cea9-11e7-8425-3464a90da5e6",
@@ -116,8 +105,7 @@
     "billing_address_country": "USA",
     "phone_office": "(673) 706-5277",
     "lead_source": "Other",
-    "link_url": "http://example.com",
-    "link_opens_in": "new_tab"
+    "link_url": "http://example.com"
   },
   {
     "id": "dd563ac6-cea9-11e7-baad-3464a90da5e6",
@@ -126,8 +114,7 @@
     "billing_address_country": "USA",
     "phone_office": "(410) 996-1447",
     "lead_source": "Support Portal User Registration",
-    "link_url": "http://example.com",
-    "link_opens_in": "new_tab"
+    "link_url": "http://example.com"
   },
   {
     "id": "dcd0dc32-cea9-11e7-b744-3464a90da5e6",
@@ -136,8 +123,7 @@
     "billing_address_country": "USA",
     "phone_office": "(171) 733-8659",
     "lead_source": "Email",
-    "link_url": "http://example.com",
-    "link_opens_in": "new_tab"
+    "link_url": "http://example.com"
   },
   {
     "id": "dc589c18-cea9-11e7-a40c-3464a90da5e6",
@@ -146,8 +132,7 @@
     "billing_address_country": "USA",
     "phone_office": "(187) 236-1495",
     "lead_source": "Word of mouth",
-    "link_url": "http://example.com",
-    "link_opens_in": "new_tab"
+    "link_url": "http://example.com"
   },
   {
     "id": "dbf186c2-cea9-11e7-b51a-3464a90da5e6",
@@ -156,8 +141,7 @@
     "billing_address_country": "USA",
     "phone_office": "(528) 648-1700",
     "lead_source": "Web Site",
-    "link_url": "http://example.com",
-    "link_opens_in": "new_tab"
+    "link_url": "http://example.com"
   },
   {
     "id": "db8c8e5c-cea9-11e7-8018-3464a90da5e6",
@@ -166,8 +150,7 @@
     "billing_address_country": "USA",
     "phone_office": "(606) 006-3577",
     "lead_source": "Web Site",
-    "link_url": "http://example.com",
-    "link_opens_in": "new_tab"
+    "link_url": "http://example.com"
   },
   {
     "id": "db2af656-cea9-11e7-afc8-3464a90da5e6",
@@ -176,8 +159,7 @@
     "billing_address_country": "USA",
     "phone_office": "(711) 309-3286",
     "lead_source": "Trade Show",
-    "link_url": "http://example.com",
-    "link_opens_in": "new_tab"
+    "link_url": "http://example.com"
   },
   {
     "id": "daa5b356-cea9-11e7-bcde-3464a90da5e6",
@@ -186,8 +168,7 @@
     "billing_address_country": "USA",
     "phone_office": "(614) 287-9137",
     "lead_source": "Conference",
-    "link_url": "http://example.com",
-    "link_opens_in": "new_tab"
+    "link_url": "http://example.com"
   },
   {
     "id": "da22b366-cea9-11e7-882f-3464a90da5e6",
@@ -196,8 +177,7 @@
     "billing_address_country": "USA",
     "phone_office": "(948) 244-3829",
     "lead_source": "Direct Mail",
-    "link_url": "http://example.com",
-    "link_opens_in": "new_tab"
+    "link_url": "http://example.com"
   },
   {
     "id": "5477b366-cea9-11e7-882f-3464a90da5e6",
@@ -206,8 +186,7 @@
     "billing_address_country": "USA",
     "phone_office": "(948) 244-3829",
     "lead_source": "Public Relations",
-    "link_url": "http://example.com",
-    "link_opens_in": "new_tab"
+    "link_url": "http://example.com"
   },
   {
     "id": "da22b366-cea9-11e7-882f-3464a90da5e6",
@@ -216,7 +195,6 @@
     "billing_address_country": "USA",
     "phone_office": "(948) 244-3829",
     "lead_source": "Partner",
-    "link_url": "http://example.com",
-    "link_opens_in": "new_tab"
+    "link_url": "http://example.com"
   }
 ]
