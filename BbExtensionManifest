@@ -17,7 +17,7 @@
         "displayName": "Marketo Leads by Campaign",
         "dataSourceUrl": "https://inxpc.magicsoftware.com/hook/5a606c1719097a0019ceea63",
         "actionType": "list",
-        "actionUrl": "https://raw.githubusercontent.com/markweitzel/sugarexchangehacks/master/providers/1-marketo/listData.json",
+        "actionUrl": "https://github.com/tiranflorin-sv/small-scripts/blob/master/building_blocks_data.json",
         "enabled": false,
         "link_opens_in": "drawer"
       },
