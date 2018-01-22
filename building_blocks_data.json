@@ -6,7 +6,7 @@
     "billing_address_country": "USA",
     "phone_office": "(838) 080-1642",
     "lead_source": "Employee",
-    "link_url": "http://example.com",
+    "link_url": "https://www.google.ro",
     "link_opens_in": "drawer"
   },
   {
@@ -16,7 +16,7 @@
     "billing_address_country": "USA",
     "phone_office": "(777) 089-5622",
     "lead_source": "Campaign",
-    "link_url": "http://deep-skies.com",
+    "link_url": "https://play.google.com/store",
     "link_opens_in": "drawer"
   },
   {
@@ -36,7 +36,7 @@
     "billing_address_country": "USA",
     "phone_office": "(762) 309-6916",
     "lead_source": "Campaign",
-    "link_url": "http://example.com",
+    "link_url": "https://www.sugarcrm.com/",
     "link_opens_in": "drawer"
   },
   {
@@ -46,7 +46,7 @@
     "billing_address_country": "USA",
     "phone_office": "(300) 078-1823",
     "lead_source": "Employee",
-    "link_url": "http://example.com",
+    "link_url": "https://www.sugarcrm.com/",
     "link_opens_in": "new_tab"
   },
   {
