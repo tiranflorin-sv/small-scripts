@@ -1,0 +1,62 @@
+{
+  "name": "Example Sugar Extension",
+  "author": {
+    "name": "Mark Weitzel",
+    "email": "mweitzel@sugarcrm.com",
+    "url": "https://community.sugarcrm.com/people/mweitzel"
+  },
+  "extensionId": "1A1F854B-E2D1-4710-AAB2-B975D9A40068",
+  "version": "0.0.1",
+  "extensionConfiguration": {
+    "configureationURL": "http://myservice.com/urlThatWillReturnHTMLtoiFrameIn"
+  },
+  "extensionPoints": {
+    "chartReportDataProviders": [
+      {
+        "id": "1-marketo",
+        "displayName": "Marketo Leads by Campaign",
+        "dataSourceUrl": "https://inxpc.magicsoftware.com/hook/5a606c1719097a0019ceea63",
+        "actionType": "list",
+        "actionUrl": "https://raw.githubusercontent.com/markweitzel/sugarexchangehacks/master/providers/1-marketo/listData.json",
+        "enabled": false,
+        "link_opens_in": "drawer"
+      },
+      {
+        "id": "2-intelestream",
+        "displayName": "Intelestream Leads By Lead Source",
+        "dataSourceUrl": "https://inxpc.magicsoftware.com/hook/5a60c1ec19097a0019ceeb14",
+        "actionType": "iframe",
+        "actionUrl": "http://myservice.com/urlthatwillreturnthelistjson",
+        "enabled": true,
+        "link_opens_in": "drawer"
+      },
+      {
+        "id": "3-magic-xpi",
+        "displayName": "Magic XPI Calls By Team By User",
+        "dataSourceUrl": "https://raw.githubusercontent.com/markweitzel/sugarexchangehacks/master/providers/3-magic-xpi/chartData.json",
+        "actionType": "list",
+        "actionUrl": "https://raw.githubusercontent.com/markweitzel/sugarexchangehacks/master/providers/3-magic-xpi/listData.json",
+        "enabled": true,
+        "link_opens_in": "new_tab"
+      },
+      {
+        "id": "4-sugaraide",
+        "displayName": "Sugaraide Meetings By Team By User",
+        "dataSourceUrl": "https://raw.githubusercontent.com/markweitzel/sugarexchangehacks/master/providers/4-sugaraide/chartData.json",
+        "actionType": "list",
+        "actionUrl": "https://raw.githubusercontent.com/markweitzel/sugarexchangehacks/master/providers/4-sugaraide/listData.json",
+        "enabled": false,
+        "link_opens_in": "drawer"
+      },
+      {
+        "id": "5-trustsphere",
+        "displayName": "Trustsphere Opportunities By Lead Source",
+        "dataSourceUrl": "https://raw.githubusercontent.com/markweitzel/sugarexchangehacks/master/providers/5-trustsphere/chartData.json",
+        "actionType": "iframe",
+        "actionUrl": "http://myservice.com/urlthatwillreturnthelistjson",
+        "enabled": false,
+        "link_opens_in": "new_tab"
+      }
+    ]
+  }
+}
