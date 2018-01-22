@@ -6,7 +6,7 @@
     "billing_address_country": "USA",
     "phone_office": "(838) 080-1642",
     "lead_source": "Employee",
-    "link_url": "https://www.google.ro",
+    "link_url": "https://httpbin.org",
     "link_opens_in": "drawer"
   },
   {
