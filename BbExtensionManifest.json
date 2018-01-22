@@ -19,7 +19,7 @@
         "actionType": "list",
         "actionUrl": "https://raw.githubusercontent.com/tiranflorin-sv/small-scripts/master/building_blocks_data.json",
         "enabled": false,
-        "link_opens_in": "drawer"
+        "linkOpensIn": "drawer"
       },
       {
         "id": "2-intelestream",
@@ -28,7 +28,7 @@
         "actionType": "iframe",
         "actionUrl": "http://myservice.com/urlthatwillreturnthelistjson",
         "enabled": true,
-        "link_opens_in": "drawer"
+        "linkOpensIn": "drawer"
       },
       {
         "id": "3-magic-xpi",
@@ -37,7 +37,7 @@
         "actionType": "list",
         "actionUrl": "https://raw.githubusercontent.com/markweitzel/sugarexchangehacks/master/providers/3-magic-xpi/listData.json",
         "enabled": true,
-        "link_opens_in": "new_tab"
+        "linkOpensIn": "new_tab"
       },
       {
         "id": "4-sugaraide",
@@ -46,7 +46,7 @@
         "actionType": "list",
         "actionUrl": "https://raw.githubusercontent.com/markweitzel/sugarexchangehacks/master/providers/4-sugaraide/listData.json",
         "enabled": false,
-        "link_opens_in": "drawer"
+        "linkOpensIn": "drawer"
       },
       {
         "id": "5-trustsphere",
@@ -55,7 +55,7 @@
         "actionType": "iframe",
         "actionUrl": "http://myservice.com/urlthatwillreturnthelistjson",
         "enabled": false,
-        "link_opens_in": "new_tab"
+        "linkOpensIn": "new_tab"
       }
     ]
   }
