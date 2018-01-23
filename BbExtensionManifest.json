@@ -16,10 +16,9 @@
         "id": "1-marketo",
         "displayName": "Marketo Leads by Campaign",
         "dataSourceUrl": "https://inxpc.magicsoftware.com/hook/5a606c1719097a0019ceea63",
-        "actionType": "list",
+        "actionType": "drawer",
         "actionUrl": "https://raw.githubusercontent.com/tiranflorin-sv/small-scripts/master/bb_list_data1.json",
-        "enabled": false,
-        "linkOpensIn": "drawer"
+        "enabled": false
       },
       {
         "id": "2-intelestream",
@@ -27,35 +26,31 @@
         "dataSourceUrl": "https://inxpc.magicsoftware.com/hook/5a60c1ec19097a0019ceeb14",
         "actionType": "iframe",
         "actionUrl": "http://myservice.com/urlthatwillreturnthelistjson",
-        "enabled": true,
-        "linkOpensIn": "drawer"
+        "enabled": true
       },
       {
         "id": "3-magic-xpi",
         "displayName": "Magic XPI Calls By Team By User",
         "dataSourceUrl": "https://raw.githubusercontent.com/markweitzel/sugarexchangehacks/master/providers/3-magic-xpi/chartData.json",
-        "actionType": "list",
+        "actionType": "new_tab",
         "actionUrl": "https://raw.githubusercontent.com/tiranflorin-sv/small-scripts/master/bb_list_data2.json",
-        "enabled": true,
-        "linkOpensIn": "new_tab"
+        "enabled": true
       },
       {
         "id": "4-sugaraide",
         "displayName": "Sugaraide Meetings By Team By User",
         "dataSourceUrl": "https://raw.githubusercontent.com/markweitzel/sugarexchangehacks/master/providers/4-sugaraide/chartData.json",
-        "actionType": "list",
+        "actionType": "drawer",
         "actionUrl": "https://raw.githubusercontent.com/markweitzel/sugarexchangehacks/master/providers/4-sugaraide/listData.json",
-        "enabled": false,
-        "linkOpensIn": "drawer"
+        "enabled": false
       },
       {
         "id": "5-trustsphere",
         "displayName": "Trustsphere Opportunities By Lead Source",
         "dataSourceUrl": "https://raw.githubusercontent.com/markweitzel/sugarexchangehacks/master/providers/5-trustsphere/chartData.json",
-        "actionType": "iframe",
+        "actionType": "new_tab",
         "actionUrl": "http://myservice.com/urlthatwillreturnthelistjson",
-        "enabled": false,
-        "linkOpensIn": "new_tab"
+        "enabled": false
       }
     ]
   }
