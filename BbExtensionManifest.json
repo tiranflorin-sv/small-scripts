@@ -13,15 +13,32 @@
   "extensionPoints": {
     "chartReportDataProviders": [
       {
-        "id": "1-marketo",
+        "id": "1-marketo-list",
+        "type": "list",
         "displayName": "Marketo Leads by Campaign",
         "dataSourceUrl": "https://inxpc.magicsoftware.com/hook/5a606c1719097a0019ceea63",
         "actionType": "drawer",
-        "actionUrl": "https://raw.githubusercontent.com/tiranflorin-sv/small-scripts/master/bb_list_data1.json",
-        "enabled": false
+        "actionUrl": "https://raw.githubusercontent.com/tiranflorin-sv/small-scripts/master/bb_list_data1.json"
+      },
+      {
+        "id": "1-marketo-chart-list",
+        "type": "chart",
+        "displayName": "Marketo Leads by Campaign",
+        "dataSourceUrl": "https://inxpc.magicsoftware.com/hook/5a606c1719097a0019ceea63",
+        "actionType": "list",
+        "actionUrl": "https://raw.githubusercontent.com/tiranflorin-sv/small-scripts/master/bb_list_data1.json"
+      },
+      {
+        "id": "1-marketo-chart-iframe",
+        "type": "chart",
+        "displayName": "Marketo Leads by Campaign",
+        "dataSourceUrl": "https://inxpc.magicsoftware.com/hook/5a606c1719097a0019ceea63",
+        "actionType": "iframe",
+        "actionUrl": "https://raw.githubusercontent.com/tiranflorin-sv/small-scripts/master/bb_list_data1.json"
       },
       {
         "id": "2-intelestream",
+        "type": "list",
         "displayName": "Intelestream Leads By Lead Source",
         "dataSourceUrl": "https://inxpc.magicsoftware.com/hook/5a60c1ec19097a0019ceeb14",
         "actionType": "iframe",
@@ -30,6 +47,7 @@
       },
       {
         "id": "3-magic-xpi",
+        "type": "list",
         "displayName": "Magic XPI Calls By Team By User",
         "dataSourceUrl": "https://raw.githubusercontent.com/markweitzel/sugarexchangehacks/master/providers/3-magic-xpi/chartData.json",
         "actionType": "new_tab",
@@ -38,6 +56,7 @@
       },
       {
         "id": "4-sugaraide",
+        "type": "list",
         "displayName": "Sugaraide Meetings By Team By User",
         "dataSourceUrl": "https://raw.githubusercontent.com/markweitzel/sugarexchangehacks/master/providers/4-sugaraide/chartData.json",
         "actionType": "drawer",
@@ -46,6 +65,7 @@
       },
       {
         "id": "5-trustsphere",
+        "type": "list",
         "displayName": "Trustsphere Opportunities By Lead Source",
         "dataSourceUrl": "https://raw.githubusercontent.com/markweitzel/sugarexchangehacks/master/providers/5-trustsphere/chartData.json",
         "actionType": "new_tab",
