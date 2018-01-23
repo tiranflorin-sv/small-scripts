@@ -17,7 +17,7 @@
         "displayName": "Marketo Leads by Campaign",
         "dataSourceUrl": "https://inxpc.magicsoftware.com/hook/5a606c1719097a0019ceea63",
         "actionType": "list",
-        "actionUrl": "https://raw.githubusercontent.com/tiranflorin-sv/small-scripts/master/building_blocks_data.json",
+        "actionUrl": "https://raw.githubusercontent.com/tiranflorin-sv/small-scripts/master/bb_list_data1.json",
         "enabled": false,
         "linkOpensIn": "drawer"
       },
@@ -35,7 +35,7 @@
         "displayName": "Magic XPI Calls By Team By User",
         "dataSourceUrl": "https://raw.githubusercontent.com/markweitzel/sugarexchangehacks/master/providers/3-magic-xpi/chartData.json",
         "actionType": "list",
-        "actionUrl": "https://raw.githubusercontent.com/markweitzel/sugarexchangehacks/master/providers/3-magic-xpi/listData.json",
+        "actionUrl": "https://raw.githubusercontent.com/tiranflorin-sv/small-scripts/master/bb_list_data2.json",
         "enabled": true,
         "linkOpensIn": "new_tab"
       },
