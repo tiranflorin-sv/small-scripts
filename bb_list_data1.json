@@ -33,7 +33,7 @@
     "billing_address_country": "USA",
     "phone_office": "(762) 309-6916",
     "lead_source": "Campaign",
-    "actionUrl": "https://www.sugarcrm.com/"
+    "actionUrl": "http://example.com"
   },
   {
     "id": "e0cbdc2e-cea9-11e7-9de4-3464a90da5e6",
@@ -42,7 +42,7 @@
     "billing_address_country": "USA",
     "phone_office": "(300) 078-1823",
     "lead_source": "Employee",
-    "actionUrl": "https://www.sugarcrm.com/"
+    "actionUrl": "http://example.com"
   },
   {
     "id": "e05bdb7c-cea9-11e7-b383-3464a90da5e6",
