@@ -1,0 +1,161 @@
+[
+  {
+    "id": "e2aec68c-cea9-11e7-b969-3464a90da5e6",
+    "name": {
+      "value": "G.T. LLC",
+      "url": "https://httpbin.org/get?city=Denver",
+      "icon": "fa-space-shuttle"
+    },
+    "billing_address_city": {
+      "value": "Denver",
+      "url": "https://httpbin.org/get?city=Denver",
+      "icon": "fa-wrench"
+    },
+    "billing_address_country": "USA",
+    "phone_office": "(838) 080-1642",
+    "lead_source": "Employee",
+    "_extendedData": {
+      "field1": {
+        "value": "Field 1",
+        "url": "https://httpbin.org/get?field1=field1",
+        "icon": "fa-space-shuttle"
+      },
+      "field2": "val2",
+      "field3": "val3",
+      "field4": "val4"
+    },
+    "_actionButtons": [
+      {
+        "icon": "fa-plus",
+        "url": "http://httpbin.com",
+        "label": ""
+      },
+      {
+        "icon": "fa-preview",
+        "url": "http://httpbin.com",
+        "label": "Preview"
+      },
+      {
+        "icon": "fa-wrench",
+        "url": "http://httpbin.com",
+        "label": "Settings"
+      }
+    ]
+  },
+  {
+    "id": "e22ecbf8-cea9-11e7-8dfa-3464a90da5e6",
+    "name": {
+      "value":"A. E. Edwards Inc",
+      "url": "https://httpbin.org/get?id=e22ecbf8-cea9-11e7-8dfa-3464a90da5e6",
+      "icon": "fa-gift"
+    },
+    "billing_address_city": {
+      "value": "Santa Monica",
+      "url": "https://httpbin.org/get?city=SantaMonica",
+      "icon": "fa-thumbs-up"
+    },
+    "billing_address_country": "USA",
+    "phone_office": "(777) 089-5622",
+    "lead_source": "Campaign",
+    "_actionButtons": [
+      {
+        "icon": "fa-plus",
+        "url": "http://httpbin.com",
+        "label": ""
+      },
+      {
+        "icon": "fa-plus",
+        "url": "http://httpbin.com",
+        "label": ""
+      },
+      {
+        "icon": "fa-plus",
+        "url": "http://httpbin.com",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "id": "e1c398e2-cea9-11e7-914a-3464a90da5e6",
+    "name": {
+      "value":"Anytime Air Support Inc",
+      "url":"https://httpbin.org/get?id=e1c398e2-cea9-11e7-914a-3464a90da5e6",
+      "icon": "fa-folder-open"
+    },
+    "billing_address_city": {
+      "value": "San Francisco",
+      "url": "https://www.google.ro/maps/place/Denver,+CO,+USA/@39.7640021,-105.4154478,10z/data=!3m1!4b1!4m5!3m4!1s0x876b80aa231f17cf:0x118ef4f8278a36d6!8m2!3d39.7392358!4d-104.990251"
+    },
+    "billing_address_country": "USA",
+    "phone_office": "(034) 888-8778",
+    "lead_source": "Employee",
+    "_extendedData": {
+      "field1": "val1",
+      "field2": "val2",
+      "field3": "val3",
+      "field4": "val4"
+    },
+    "_actionButtons": [
+      {
+        "icon": "fa-plus",
+        "url": "http://httpbin.com",
+        "label": ""
+      },
+      {
+        "icon": "fa-plus",
+        "url": "http://httpbin.com",
+        "label": ""
+      },
+      {
+        "icon": "fa-plus",
+        "url": "http://httpbin.com",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "id": "e1574250-cea9-11e7-b6e9-3464a90da5e6",
+    "name": {
+      "value":"Spend Thrift Inc",
+      "url": "https://httpbin.org/get?id=e1574250-cea9-11e7-b6e9-3464a90da5e6"
+    },
+    "billing_address_city": {
+      "value": "Los Angeles",
+      "url": "https://www.google.ro/maps/place/Denver,+CO,+USA/@39.7640021,-105.4154478,10z/data=!3m1!4b1!4m5!3m4!1s0x876b80aa231f17cf:0x118ef4f8278a36d6!8m2!3d39.7392358!4d-104.990251"
+    },
+    "billing_address_country": "USA",
+    "phone_office": "(762) 309-6916",
+    "lead_source": "Campaign",
+    "_actionButtons": [
+      {
+        "icon": "fa-plus",
+        "url": "http://httpbin.com",
+        "label": ""
+      },
+      {
+        "icon": "fa-plus",
+        "url": "http://httpbin.com",
+        "label": ""
+      },
+      {
+        "icon": "fa-plus",
+        "url": "http://httpbin.com",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "id": "e0cbdc2e-cea9-11e7-9de4-3464a90da5e6",
+    "name": {
+      "value":"Mississippi Bank Group",
+      "url": "https://httpbin.org/get?id=e0cbdc2e-cea9-11e7-9de4-3464a90da5e6"
+    },
+    "billing_address_city": {
+      "value": "San Mateo",
+      "url": "https://www.google.ro/maps/place/Denver,+CO,+USA/@39.7640021,-105.4154478,10z/data=!3m1!4b1!4m5!3m4!1s0x876b80aa231f17cf:0x118ef4f8278a36d6!8m2!3d39.7392358!4d-104.990251"
+    },
+    "billing_address_country": "USA",
+    "phone_office": "(300) 078-1823",
+    "lead_source": "Employee"
+  }
+]
